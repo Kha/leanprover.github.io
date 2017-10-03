@@ -72,4 +72,4 @@ Make sure that you have emacs installed:
    to get a pre-compiled binary of emacs.
 
 To configure Emacs to work with Lean, follow the instructions
-[here](https://github.com/leanprover/lean/blob/master/src/emacs/README.md).
+[here](https://github.com/leanprover/lean-mode).

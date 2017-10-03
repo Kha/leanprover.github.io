@@ -30,7 +30,5 @@ sudo apt-get install lean
 
 Once installed via PPA, you can use the standard `sudo apt-get upgrade` to get the latest version of Lean.
 
-The command `leanemacs` starts Emacs with the Lean mode automatically configured for you.
-
-If you prefer you can manually configure the Lean Emacs mode using the instructions
-available [here](https://github.com/leanprover/lean/blob/master/src/emacs/README.md).
+Configure the Lean Emacs mode using the instructions
+available [here](https://github.com/leanprover/lean-mode).

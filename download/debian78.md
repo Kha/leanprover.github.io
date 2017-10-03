@@ -46,4 +46,4 @@ sudo aptitude --target-release wheezy-backports install emacs24
 ## Starting Lean Emacs mode
 
 Configure `.emacs` initialization file using these
-[instructions](https://github.com/leanprover/lean/blob/master/src/emacs/README.md).
+[instructions](https://github.com/leanprover/lean-mode).
